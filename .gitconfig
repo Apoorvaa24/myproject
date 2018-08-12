@@ -1,0 +1,12 @@
+[color]
+	ui = true
+	status = auto
+	branch = auto
+[core]
+[merge]
+	tool = vimdiff
+[core]
+	editor = vim
+[user]
+	email = apoorvaa24@example.com
+	name = apoorvaa24
